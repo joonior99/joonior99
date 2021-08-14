@@ -3,7 +3,7 @@
 <div align=center>
 
   
-### :pencil2: Technical skills I'm currently studying with...
+### :pencil2: Technical skills that I'm currently working with...
   
   
 <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
