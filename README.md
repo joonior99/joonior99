@@ -15,4 +15,6 @@
 
 <br>
   
+<img src="https://img.shields.io/badge/-Slack-4A154B?logo=slack&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=Figma&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/badge/-Notion-38B2AC?logo=Notion&logoColor=white&style=for-the-badge"/>  
+  
 </div>
